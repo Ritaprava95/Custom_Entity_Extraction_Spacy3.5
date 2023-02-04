@@ -9,3 +9,5 @@ conda install -c anaconda pip<br />
 pip install -U pip setuptools wheel<br />
 pip install -U spacy[cuda-autodetect]<br />
 conda install jupyter<br />
+pip install cchardet<br />
+pip install chardet
