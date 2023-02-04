@@ -11,3 +11,5 @@ pip install -U spacy[cuda-autodetect]<br />
 conda install jupyter<br />
 pip install cchardet<br />
 pip install chardet
+# Dataset link
+https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus
