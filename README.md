@@ -8,10 +8,10 @@ conda install -c anaconda cudnn<br />
 conda install -c anaconda pip<br />
 pip install -U pip setuptools wheel<br />
 pip install -U spacy[cuda-autodetect]<br />
-python -m spacy download en_core_web_trf</ br>
+python -m spacy download en_core_web_trf<br />
 conda install jupyter<br />
 pip install cchardet<br />
-pip install chardet</ br>
+pip install chardet<br />
 conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 # Dataset link
 https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus
